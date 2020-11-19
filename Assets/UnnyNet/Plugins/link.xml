@@ -1,0 +1,5 @@
+<linker>
+    <assembly fullname="UnnyNet">
+        <type fullname="UnnyNet.*" preserve="all" />
+    </assembly>
+</linker>
